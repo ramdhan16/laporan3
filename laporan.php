@@ -1,3 +1,6 @@
- nama : muh ramdhan hidayat
- nim : 60200116062
- jurusan : teknik informatika
+<?
+$x= "Hello World Ramdhan";
+echo $x;
+$y= "Laporan 3 Kakas";
+echo $y;
+  ?>
